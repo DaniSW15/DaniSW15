@@ -152,13 +152,18 @@ Soy un desarrollador **Sordo**. Mi comunicación profesional es mediante:
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=DaniSW15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  <br /><br />
+<br /><br />
 
-  <!-- GitHub Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DaniSW15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniSW15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- GitHub Profile Summary Cards (alternativa confiable a github-readme-stats) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniSW15&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniSW15&theme=tokyonight" alt="Repos per Language" />
 
-  <br /><br />
+<br /><br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniSW15&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaniSW15&theme=tokyonight&utcOffset=-6" alt="Productive Time" />
+
+<br /><br />
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaniSW15&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
@@ -171,6 +176,6 @@ Soy un desarrollador **Sordo**. Mi comunicación profesional es mediante:
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" />
 
-  <sub>Construido con pasión, código limpio y un fuerte compromiso con la accesibilidad. ✨</sub>
+<sub>Construido con pasión, código limpio y un fuerte compromiso con la accesibilidad. ✨</sub>
 
 </div>
