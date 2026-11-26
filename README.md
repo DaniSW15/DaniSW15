@@ -2,7 +2,7 @@
 
 <!-- Typing Animation Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Daniel+Calder%C3%B3n+Gonz%C3%A1lez;Software+Engineer+%7C+Angular+%26+FastAPI+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=130&lines=Daniel+Calder%C3%B3n+Gonz%C3%A1lez;Ingeniero+de+Software+Sordo;Especialista+Angular+%26+FastAPI" alt="Typing SVG" />
 </a>
 
 <br />
@@ -24,7 +24,7 @@
 
 ```yaml
 nombre: Daniel Calderón González
-rol: Ingeniero de Software | Especialista en Angular & FastAPI
+rol: Ingeniero de Software Sordo | Especialista en Angular & FastAPI
 ubicación: México 🇲🇽
 experiencia: 5 años
 arquitectura: Clean Architecture, Arquitectura Hexagonal y DDD en Frontend
@@ -33,7 +33,7 @@ enfoque: Aplicaciones web y móviles estables, modulares y escalables
 
 Hola, soy **Daniel**, **Ingeniero de Software** y profesional **Sordo con orgullo**, con **5 años de experiencia** desarrollando aplicaciones web estables y escalables.
 
-Soy especialista en **Angular** (frontend) y **FastAPI** (backend), aplicando **Arquitectura Limpia (Clean Architecture)**, **Arquitectura Hexagonal** y **DDD (Domain-Driven Design)** en frontend para construir código modular, desacoplado y fácil de mantener. También cuento con experiencia práctica en **React**, **Next.js**, **NestJS** y **ASP.NET**, así como en desarrollo móvil con **Ionic**, **Flutter** y **React Native**.
+Soy especialista en **Angular** (frontend) y **FastAPI** (backend), aplicando **Arquitectura Limpia (Clean Architecture)**, **Arquitectura Hexagonal** y **DDD (Domain-Driven Design)** en frontend para construir código modular, desacoplado y fácil de mantener. También cuento con experiencia práctica en **React**, **Next.js**, **NestJS** y **ASP.NET**, así como en desarrollo móvil con **Ionic**, **Flutter**, **Angular Native** y **React Native**.
 
 En mis empleos remotos he trabajado con arquitectura modular, **RxJS**, **GraphQL**, **AWS**, pruebas unitarias y librerías internas reutilizables. Además, he impulsado proyectos de inclusión digital para la **comunidad Sorda**, como **Las Señas del Tren Maya** y **CODEAF**.
 
@@ -47,7 +47,7 @@ Trabajo cómodamente en equipos ágiles con **Git** y **Jira** mediante comunica
 
 **Idiomas:**
 - 🤟 **Lengua de Señas Mexicana (LSM):** Nativa
-- 🇲🇽 **Español:** Comunicación escrita clara y profesional
+- 🇲🇽 **Español:** Nivel B1 (comunicación escrita clara y directa)
 - 🇺🇸 **Inglés:** Técnico (lectura de documentación)
 
 > La accesibilidad no es una feature opcional — es parte fundamental de cada línea de código que escribo.
@@ -102,6 +102,7 @@ Trabajo cómodamente en equipos ágiles con **Git** y **Jira** mediante comunica
 
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular Native](https://img.shields.io/badge/Angular_Native-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000)
 
 </details>
